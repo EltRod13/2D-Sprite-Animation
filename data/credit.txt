@@ -1,0 +1,14 @@
+Credits 
+Made by student ID 20021113; 
+Featuring vertically scrolling centered
+Arial Font credits of size 12; 
+a hand drawn sprite animation of a 
+stickman walking which consists of 8 poses 
+created in Paint with a scrolling 
+background containing hand drawn elements 
+and graphical primitives created in Paint.
+
+AUDIO USED
+-HAPPY WALK by TWISTERIUM
+
+THANK YOU :)
